@@ -1,7 +1,7 @@
 channel: stable 
 addons:
   teddycloud:
-    repository: mrueg/addon-teddycloud
+    repository: RIRKBLF/CopyReddyRIAdd
     target: teddycloud
     image: ghcr.io/mrueg/teddycloud/{arch}
   standalone-chromium:
